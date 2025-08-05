@@ -20,19 +20,6 @@ Welcome to the frontend codebase of HealthTrack – a responsive, Angular-based 
 >GitHub (version control)
 >Firebase (chat integration planned)
 
-📁 Folder Structure
-
-src/
-├── app/
-│   ├── components/        # Header, Footer, etc.
-│   ├── pages/             # Home, Login, Dashboard, etc.
-│   ├── services/          # API and helper services
-│   └── app.module.ts
-├── assets/
-├── environments/
-└── index.html
-
-
 📚 Project Status
 ✅ UI complete and deployed on Netlify
 🔄 Backend integration (Spring Boot + MongoDB) coming soon
